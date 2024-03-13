@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ejercicio_siete</string>
+    <string name="title">Lugares</string>
+    <string name="suptitulo_abajo">Lugar seleccionado:</string>
+</resources>
